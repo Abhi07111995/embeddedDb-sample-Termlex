@@ -1,0 +1,7 @@
+com/noesisinformatica/test/DataService.class
+com/noesisinformatica/test/utility/MySQLConnectionFactory.class
+com/noesisinformatica/test/dao/TestDao/TestDao.class
+com/noesisinformatica/test/App.class
+com/noesisinformatica/test/utility/MyDataSourceFactory.class
+com/noesisinformatica/test/bean/Constants.class
+com/noesisinformatica/test/entity/Term.class
